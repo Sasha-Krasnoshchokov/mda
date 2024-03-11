@@ -1,0 +1,15 @@
+{
+  "short_name": "MDA",
+  "name": "Medicine Delivery App",
+  "icons": [
+    {
+      "src": "favicon.icon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "rgb(34, 40, 49)",
+  "background_color": "rgb(211, 219, 231)"
+}
