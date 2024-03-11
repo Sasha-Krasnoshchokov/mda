@@ -17,9 +17,7 @@ DEMO [https://md-client.onrender.com/] - to view it in the browser
 ## Deploying and Running
 
 ### `Create the root directory and clone`
-    ```
-    git clone https://github.com/Sasha-Krasnoshchokov/mda.git
-    ```
+    ```git clone https://github.com/Sasha-Krasnoshchokov/mda.git```
 
 ### `install dependencies for both side`
 
