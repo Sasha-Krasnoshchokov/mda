@@ -1,7 +1,7 @@
 # Medicine Delivery App
   - the app is deployed on the **Render** hosting [https://render.com/]
 
-DEMO [https://md-client.onrender.com/] - to view it in the browser
+DEMO [https://mda-client.onrender.com/] - to view it in the browser
 
 **Frontend Stack**
   - Typescript
